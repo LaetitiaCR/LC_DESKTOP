@@ -1,0 +1,12 @@
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\WindowsFormsAppValidation.exe.config
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\WindowsFormsAppValidation.exe
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\WindowsFormsAppValidation.pdb
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\ClassLibraryPerson.dll
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\ClassLibraryPerson.pdb
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.csprojAssemblyReference.cache
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.Properties.Resources.resources
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.csproj.GenerateResource.cache
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.csproj.CoreCompileInputs.cache
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.csproj.CopyComplete
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.exe
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.pdb

@@ -1,0 +1,6 @@
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\ClassLibraryPerson\bin\Debug\ClassLibraryPerson.dll
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\ClassLibraryPerson\bin\Debug\ClassLibraryPerson.pdb
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\ClassLibraryPerson\obj\Debug\ClassLibraryPerson.csprojAssemblyReference.cache
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\ClassLibraryPerson\obj\Debug\ClassLibraryPerson.csproj.CoreCompileInputs.cache
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\ClassLibraryPerson\obj\Debug\ClassLibraryPerson.dll
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\ClassLibraryPerson\obj\Debug\ClassLibraryPerson.pdb

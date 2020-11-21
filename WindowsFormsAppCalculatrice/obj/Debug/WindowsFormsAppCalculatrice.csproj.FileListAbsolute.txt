@@ -1,0 +1,9 @@
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\bin\Debug\WindowsFormsAppCalculatrice.exe.config
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\bin\Debug\WindowsFormsAppCalculatrice.exe
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\bin\Debug\WindowsFormsAppCalculatrice.pdb
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.Form1.resources
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.Properties.Resources.resources
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.csproj.GenerateResource.cache
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.csproj.CoreCompileInputs.cache
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.exe
+C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.pdb
