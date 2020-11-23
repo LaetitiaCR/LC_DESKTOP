@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C221B5E0-6731-4207-AD84-366121DDD89A}</ProjectGuid>
+    <ProjectGuid>{F65FFED6-9B4C-4588-834D-3B533E665691}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WindowsFormsAppValidation</RootNamespace>
-    <AssemblyName>WindowsFormsAppValidation</AssemblyName>
+    <RootNamespace>WinFrmAppEvenAndThreadToutEmbal</RootNamespace>
+    <AssemblyName>WinFrmAppEvenAndThreadToutEmbal</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassMyThread.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,12 +79,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ClassLibraryPerson\ClassLibraryPerson.csproj">
-      <Project>{41bf36a7-0633-4869-90bb-3a64c24f26ef}</Project>
-      <Name>ClassLibraryPerson</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

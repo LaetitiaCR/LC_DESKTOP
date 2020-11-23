@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryPerson", "Class
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppValidation", "WindowsFormsAppValidation\WindowsFormsAppValidation.csproj", "{C221B5E0-6731-4207-AD84-366121DDD89A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFrmAppEvenEtThread", "WinFrmAppEvenAndThreadToutEmbal\WinFrmAppEvenEtThread.csproj", "{F65FFED6-9B4C-4588-834D-3B533E665691}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ToutEmbal", "ToutEmbal", "{72637F07-3F3B-4BD0-83A6-FFC6E63B02BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,10 @@ Global
 		{C221B5E0-6731-4207-AD84-366121DDD89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C221B5E0-6731-4207-AD84-366121DDD89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C221B5E0-6731-4207-AD84-366121DDD89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65FFED6-9B4C-4588-834D-3B533E665691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65FFED6-9B4C-4588-834D-3B533E665691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65FFED6-9B4C-4588-834D-3B533E665691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65FFED6-9B4C-4588-834D-3B533E665691}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +47,7 @@ Global
 		{8D77ED4B-7CC7-49C5-B776-1198C5926AFE} = {8B786AAE-93AC-4DAB-A830-3DB2B5ACB3A6}
 		{41BF36A7-0633-4869-90BB-3A64C24F26EF} = {680475DB-D4DD-4915-88BA-EE9813DE3820}
 		{C221B5E0-6731-4207-AD84-366121DDD89A} = {680475DB-D4DD-4915-88BA-EE9813DE3820}
+		{F65FFED6-9B4C-4588-834D-3B533E665691} = {72637F07-3F3B-4BD0-83A6-FFC6E63B02BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {28E13A4E-4D3B-4E1D-84F3-6CD2FC6B0936}

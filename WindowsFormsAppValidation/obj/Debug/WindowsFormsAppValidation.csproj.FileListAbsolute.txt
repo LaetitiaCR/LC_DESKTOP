@@ -10,3 +10,16 @@ C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\Windows
 C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.csproj.CopyComplete
 C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.exe
 C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.pdb
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\WindowsFormsAppValidation.exe.config
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\WindowsFormsAppValidation.exe
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\WindowsFormsAppValidation.pdb
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\ClassLibraryPerson.dll
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\bin\Debug\ClassLibraryPerson.pdb
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.Form1.resources
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.Properties.Resources.resources
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.csproj.GenerateResource.cache
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.csproj.CoreCompileInputs.cache
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.csproj.CopyComplete
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.exe
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.pdb
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppValidation\obj\Debug\WindowsFormsAppValidation.csprojAssemblyReference.cache

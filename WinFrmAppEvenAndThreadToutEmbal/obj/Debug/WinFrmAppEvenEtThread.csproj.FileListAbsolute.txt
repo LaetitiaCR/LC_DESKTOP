@@ -1,0 +1,9 @@
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\bin\Debug\WinFrmAppEvenAndThreadToutEmbal.exe.config
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\bin\Debug\WinFrmAppEvenAndThreadToutEmbal.exe
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\bin\Debug\WinFrmAppEvenAndThreadToutEmbal.pdb
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenAndThreadToutEmbal.Form1.resources
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenAndThreadToutEmbal.Properties.Resources.resources
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenEtThread.csproj.GenerateResource.cache
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenEtThread.csproj.CoreCompileInputs.cache
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenAndThreadToutEmbal.exe
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenAndThreadToutEmbal.pdb
