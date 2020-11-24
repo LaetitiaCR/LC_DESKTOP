@@ -23,6 +23,7 @@ namespace WindowsFormsAppCalculatrice
             InitializeComponent();
             resultat = 0;
             initialiser = true;
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -86,10 +87,10 @@ namespace WindowsFormsAppCalculatrice
 
         private void buttonCalculer_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "";
-            textBox1.Text = "'" + resultat + "'";
+            //textBox1.Text = "";
+            textBox1.Text = textBox1.Text.Substring(0, textBox1.TextLength - 1) + "=" + resultat + ";";
             resultat = 0;
-            initialiser = false;
+            //initialiser = false;
 
         }
         
@@ -108,7 +109,7 @@ namespace WindowsFormsAppCalculatrice
 
         private void Form1_LocationChanged(object sender, EventArgs e)
         {
-            textBox1.Text = "";
+            //textBox1.Text = "";
         }
 
      
@@ -126,6 +127,17 @@ namespace WindowsFormsAppCalculatrice
   
 
         private void button0_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = textBox1.Text + button0.Tag.ToString() + "+";
+            resultat = resultat + int.Parse(button0.Tag.ToString());
+        }
+
+        private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }

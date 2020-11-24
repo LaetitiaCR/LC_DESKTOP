@@ -79,11 +79,11 @@
             // txtNom
             // 
             this.txtNom.Location = new System.Drawing.Point(323, 79);
+            this.txtNom.MaxLength = 30;
             this.txtNom.Name = "txtNom";
             this.txtNom.Size = new System.Drawing.Size(100, 20);
             this.txtNom.TabIndex = 4;
-            this.txtNom.Text = "123";
-            this.txtNom.TextChanged += new System.EventHandler(this.txtNom_TextChanged);
+            this.txtNom.Text = "Dupont";
             // 
             // txtDate
             // 
@@ -99,11 +99,12 @@
             this.txtMont.Name = "txtMont";
             this.txtMont.Size = new System.Drawing.Size(100, 20);
             this.txtMont.TabIndex = 6;
-            this.txtMont.Text = "35.6768";
+            this.txtMont.Text = "35,6768";
             // 
             // txtCP
             // 
             this.txtCP.Location = new System.Drawing.Point(323, 261);
+            this.txtCP.MaxLength = 5;
             this.txtCP.Name = "txtCP";
             this.txtCP.Size = new System.Drawing.Size(100, 20);
             this.txtCP.TabIndex = 7;
@@ -127,6 +128,7 @@
             this.butEff.TabIndex = 9;
             this.butEff.Text = "Effacer";
             this.butEff.UseVisualStyleBackColor = true;
+            this.butEff.Click += new System.EventHandler(this.butEff_Click);
             // 
             // Form1
             // 
@@ -144,7 +146,7 @@
             this.Controls.Add(this.lblDate);
             this.Controls.Add(this.lblNom);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Les Contrôles";
             this.ResumeLayout(false);
             this.PerformLayout();
 

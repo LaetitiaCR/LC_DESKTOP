@@ -45,18 +45,20 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(313, 229);
+            this.textBox1.Location = new System.Drawing.Point(356, 229);
+            this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(241, 20);
-            this.textBox1.TabIndex = 2;
+            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.textBox1.Size = new System.Drawing.Size(201, 26);
+            this.textBox1.TabIndex = 10;
             // 
             // buttonCalculer
             // 
-            this.buttonCalculer.Location = new System.Drawing.Point(328, 273);
+            this.buttonCalculer.Location = new System.Drawing.Point(311, 315);
             this.buttonCalculer.Name = "buttonCalculer";
             this.buttonCalculer.Size = new System.Drawing.Size(140, 23);
-            this.buttonCalculer.TabIndex = 10;
+            this.buttonCalculer.TabIndex = 11;
             this.buttonCalculer.Text = "calculer la somme";
             this.buttonCalculer.UseVisualStyleBackColor = true;
             this.buttonCalculer.Click += new System.EventHandler(this.buttonCalculer_Click);
@@ -64,10 +66,10 @@
             // 
             // buttonReset
             // 
-            this.buttonReset.Location = new System.Drawing.Point(505, 273);
+            this.buttonReset.Location = new System.Drawing.Point(501, 315);
             this.buttonReset.Name = "buttonReset";
             this.buttonReset.Size = new System.Drawing.Size(75, 23);
-            this.buttonReset.TabIndex = 11;
+            this.buttonReset.TabIndex = 12;
             this.buttonReset.Text = "reset";
             this.buttonReset.UseVisualStyleBackColor = true;
             this.buttonReset.Click += new System.EventHandler(this.buttonReset_Click);
@@ -143,7 +145,7 @@
             this.button2.Location = new System.Drawing.Point(418, 38);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 1;
+            this.button2.TabIndex = 2;
             this.button2.Tag = "2";
             this.button2.Text = "2";
             this.button2.UseVisualStyleBackColor = true;
@@ -154,7 +156,7 @@
             this.button1.Location = new System.Drawing.Point(311, 38);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
+            this.button1.TabIndex = 1;
             this.button1.Tag = "1";
             this.button1.Text = "1";
             this.button1.UseVisualStyleBackColor = true;
@@ -176,8 +178,8 @@
             this.button0.Location = new System.Drawing.Point(169, 38);
             this.button0.Name = "button0";
             this.button0.Size = new System.Drawing.Size(75, 23);
-            this.button0.TabIndex = 10;
-            this.button0.Tag = "1";
+            this.button0.TabIndex = 0;
+            this.button0.Tag = "0";
             this.button0.Text = "0";
             this.button0.UseVisualStyleBackColor = true;
             this.button0.Click += new System.EventHandler(this.button0_Click);
@@ -202,6 +204,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.LocationChanged += new System.EventHandler(this.Form1_LocationChanged);
             this.ResumeLayout(false);
             this.PerformLayout();
