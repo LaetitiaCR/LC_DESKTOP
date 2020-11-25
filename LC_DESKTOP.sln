@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFrmAppEvenEtThread", "Wi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ToutEmbal", "ToutEmbal", "{72637F07-3F3B-4BD0-83A6-FFC6E63B02BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFrmAppObjetsGraphiques", "WinFrmAppObjetsGraphiques\WinFrmAppObjetsGraphiques.csproj", "{A77CC8ED-58E2-4BF4-AC2B-94FAEDB2B543}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objets", "Objets", "{C586E05B-27FF-4C04-93C6-3856A1F0DAD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{F65FFED6-9B4C-4588-834D-3B533E665691}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F65FFED6-9B4C-4588-834D-3B533E665691}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F65FFED6-9B4C-4588-834D-3B533E665691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77CC8ED-58E2-4BF4-AC2B-94FAEDB2B543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77CC8ED-58E2-4BF4-AC2B-94FAEDB2B543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77CC8ED-58E2-4BF4-AC2B-94FAEDB2B543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77CC8ED-58E2-4BF4-AC2B-94FAEDB2B543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{41BF36A7-0633-4869-90BB-3A64C24F26EF} = {680475DB-D4DD-4915-88BA-EE9813DE3820}
 		{C221B5E0-6731-4207-AD84-366121DDD89A} = {680475DB-D4DD-4915-88BA-EE9813DE3820}
 		{F65FFED6-9B4C-4588-834D-3B533E665691} = {72637F07-3F3B-4BD0-83A6-FFC6E63B02BE}
+		{A77CC8ED-58E2-4BF4-AC2B-94FAEDB2B543} = {C586E05B-27FF-4C04-93C6-3856A1F0DAD9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {28E13A4E-4D3B-4E1D-84F3-6CD2FC6B0936}

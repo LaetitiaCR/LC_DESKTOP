@@ -45,12 +45,12 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(356, 229);
+            this.textBox1.Location = new System.Drawing.Point(353, 229);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox1.Size = new System.Drawing.Size(201, 26);
+            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.textBox1.Size = new System.Drawing.Size(204, 55);
             this.textBox1.TabIndex = 10;
             // 
             // buttonCalculer
@@ -188,6 +188,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(865, 536);
             this.Controls.Add(this.button9);
             this.Controls.Add(this.button3);
@@ -205,6 +206,7 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.Scroll += new System.Windows.Forms.ScrollEventHandler(this.vScrollBar1_Scroll);
             this.LocationChanged += new System.EventHandler(this.Form1_LocationChanged);
             this.ResumeLayout(false);
             this.PerformLayout();

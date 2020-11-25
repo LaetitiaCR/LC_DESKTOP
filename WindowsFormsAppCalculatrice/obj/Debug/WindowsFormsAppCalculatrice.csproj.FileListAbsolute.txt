@@ -10,10 +10,10 @@ C:\LC\VSCode_LC\VSCode_LC\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\Windo
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\bin\Debug\WindowsFormsAppCalculatrice.exe.config
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\bin\Debug\WindowsFormsAppCalculatrice.exe
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\bin\Debug\WindowsFormsAppCalculatrice.pdb
-C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.csprojAssemblyReference.cache
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.Form1.resources
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.Properties.Resources.resources
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.csproj.GenerateResource.cache
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.csproj.CoreCompileInputs.cache
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.exe
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.pdb
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WindowsFormsAppCalculatrice\obj\Debug\WindowsFormsAppCalculatrice.csprojAssemblyReference.cache

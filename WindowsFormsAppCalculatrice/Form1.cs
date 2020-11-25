@@ -28,7 +28,7 @@ namespace WindowsFormsAppCalculatrice
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button1.Tag.ToString() + "+";
+            textBox1.Text = textBox1.Text + "+" + button1.Tag.ToString();
             resultat = resultat + int.Parse(button1.Tag.ToString());
 
 
@@ -38,59 +38,57 @@ namespace WindowsFormsAppCalculatrice
 
         private void button2_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button2.Tag.ToString() + "+";
+            textBox1.Text = textBox1.Text + "+" + button2.Tag.ToString();
             resultat = resultat + int.Parse(button2.Tag.ToString());
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button3.Tag.ToString() + "+";
+            textBox1.Text = textBox1.Text +  "+" + button3.Tag.ToString();
             resultat = resultat + int.Parse(button3.Tag.ToString());
       
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button4.Tag.ToString() + "+";
+            textBox1.Text =  textBox1.Text + "+" + button4.Tag.ToString();
             resultat = resultat + int.Parse(button4.Tag.ToString());
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button5.Tag.ToString() + "+";
+            textBox1.Text = textBox1.Text + "+" + button5.Tag.ToString();
             resultat = resultat + int.Parse(button5.Tag.ToString());
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button6.Tag.ToString() + "+";
+            textBox1.Text =  textBox1.Text + "+" + button6.Tag.ToString();
             resultat = resultat + int.Parse(button6.Tag.ToString());
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button7.Tag.ToString() + "+";
+            textBox1.Text =  textBox1.Text + "+" + button7.Tag.ToString();
             resultat = resultat + int.Parse(button7.Tag.ToString());
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button8.Tag.ToString() + "+";
+            textBox1.Text = textBox1.Text + "+" + button8.Tag.ToString();
             resultat = resultat + int.Parse(button8.Tag.ToString());
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button9.Tag.ToString() + "+";
+            textBox1.Text = textBox1.Text + "+" + button9.Tag.ToString();
             resultat = resultat + int.Parse(button9.Tag.ToString());
         }
 
         private void buttonCalculer_Click(object sender, EventArgs e)
         {
-            //textBox1.Text = "";
-            textBox1.Text = textBox1.Text.Substring(0, textBox1.TextLength - 1) + "=" + resultat + ";";
-            resultat = 0;
-            //initialiser = false;
+            
+            textBox1.Text = textBox1.Text  + "=" + resultat;
 
         }
         
@@ -100,7 +98,7 @@ namespace WindowsFormsAppCalculatrice
         private void buttonReset_Click(object sender, EventArgs e)
         {
             textBox1.Text = "";
-          
+            resultat = 0;
         }
 
        
@@ -128,7 +126,8 @@ namespace WindowsFormsAppCalculatrice
 
         private void button0_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + button0.Tag.ToString() + "+";
+            
+            textBox1.Text = textBox1.Text + "+" + button0.Tag.ToString();
             resultat = resultat + int.Parse(button0.Tag.ToString());
         }
 

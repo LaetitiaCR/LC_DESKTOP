@@ -7,3 +7,4 @@ C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadTou
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenEtThread.csproj.CoreCompileInputs.cache
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenAndThreadToutEmbal.exe
 C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenAndThreadToutEmbal.pdb
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppEvenAndThreadToutEmbal\obj\Debug\WinFrmAppEvenEtThread.csprojAssemblyReference.cache

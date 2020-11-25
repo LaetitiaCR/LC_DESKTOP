@@ -1,0 +1,10 @@
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\bin\Debug\WinFrmAppObjetsGraphiques.exe.config
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\bin\Debug\WinFrmAppObjetsGraphiques.exe
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\bin\Debug\WinFrmAppObjetsGraphiques.pdb
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\obj\Debug\WinFrmAppObjetsGraphiques.CheckRadioObjets.resources
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\obj\Debug\WinFrmAppObjetsGraphiques.Properties.Resources.resources
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\obj\Debug\WinFrmAppObjetsGraphiques.csproj.GenerateResource.cache
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\obj\Debug\WinFrmAppObjetsGraphiques.csproj.CoreCompileInputs.cache
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\obj\Debug\WinFrmAppObjetsGraphiques.exe
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\obj\Debug\WinFrmAppObjetsGraphiques.pdb
+C:\Users\lcarrivale\Documents\MyVscommunity\LC_DESKTOP\WinFrmAppObjetsGraphiques\obj\Debug\WinFrmAppObjetsGraphiques.Form1.resources
